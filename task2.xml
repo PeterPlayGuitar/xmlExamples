@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <classes>
+    <class>
+      <name>HTTP XML</name>
+      <description>Мы изучим XML</description>
+      <isRequired>true</isRequired>
+      <taskIds>
+        <taskId>1009</taskId>
+        <taskId>1010</taskId>
+      </taskIds>
+    </class>
+  </classes>
+  <tasks>
+    <task id="1009">
+      <name>Задание</name>
+      <questions>
+        <question>
+          <text>Что такое XML?</text>
+          <answer>Язык описания данных</answer>
+        </question>
+        <question>
+          <text>XML это HTML?</text>
+          <answer>Нет</answer>
+        </question>
+      </questions>
+      <isRequired>true</isRequired>
+    </task>
+    <task id="1010">
+      <name>Задание</name>
+      <questions>
+        <question>
+          <text>Расшифруйте XML</text>
+          <answer>Extensible Markup Language</answer>
+        </question>
+      </questions>
+      <isRequired>true</isRequired>
+    </task>
+  </tasks>
+</data>
