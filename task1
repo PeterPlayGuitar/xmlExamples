@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <category>
+    <name>First Shouter Games</name>
+    <description>Shouting from first person view</description>
+    <image src="games/shouterCategory/shouterCategory.png">Shouter</image>
+    <parentsCategory>Games</parentsCategory>
+  </category>
+  <product>
+    <name>Call of Duty</name>
+    <description>Shout people and win</description>
+    <images>
+      <image src="games/shouterCategory/Call of Duty/screenshot1.png"></image>
+      <image src="games/shouterCategory/Call of Duty/screenshot2.png"></image>
+      <image src="games/shouterCategory/Call of Duty/screenshot3.png"></image>
+    </images>
+    <category>First Shouter Games</category>
+    <price currency="US dollar">100</price>
+  </product>
+</data>
